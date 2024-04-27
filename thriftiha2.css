@@ -887,12 +887,14 @@ margin-left: 40px;
 .hero {
   background-repeat: no-repeat;
   background-size: cover;
+   background-img:  backround.jpg;
     padding: 100px;
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left center;
     color: rgb(69, 46, 7);
+   background:"
 }
 .hero div h3 {
     font-size: 28px;
